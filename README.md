@@ -49,7 +49,7 @@ If you’d prefer to use the ngrok URL with the OpenAI API schema:
 ---
 
 ## 🎯 Example Usage
-![Running the Kaggle Notebook](https://i.imgur.com/example123.png)
+![Running the Kaggle Notebook](https://github.com/cyberytti/OllamaKaggle/blob/main/Screenshot%20from%202025-03-18%2014-02-20.png)
 
 
 ## 💡 Tips
