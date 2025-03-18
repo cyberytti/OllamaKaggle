@@ -51,7 +51,7 @@ If you’d prefer to use the ngrok URL with the OpenAI API schema:
 ## 🎯 Example Usage
 ![Running the Kaggle Notebook](https://github.com/cyberytti/OllamaKaggle/blob/main/Screenshot%20from%202025-03-18%2014-02-20.png)
 
-###I run two big mopdels using this notebook from my local terminal.
+### I run two big mopdels using this notebook from my local terminal.
 ---
 
 ## 💡 Tips
