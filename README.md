@@ -49,6 +49,8 @@ If you’d prefer to use the ngrok URL with the OpenAI API schema:
 ---
 
 ## 🎯 Example Usage
+![Running the Kaggle Notebook](https://i.imgur.com/example123.png)
+
 
 ## 💡 Tips
 - Make sure your Kaggle notebook session is active while using the ngrok URL.
